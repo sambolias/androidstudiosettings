@@ -1,0 +1,30 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="shift ctrl alt down" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="NextOccurence" />
+  <action id="PreviousOccurence" />
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift ctrl alt j" />
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="VcsShowNextChangeMarker" />
+  <action id="VcsShowPrevChangeMarker" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
